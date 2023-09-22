@@ -1,3 +1,4 @@
+
 // Get references to the elements
 const stars = document.getElementById('stars');
 const moon = document.getElementById('moon');
